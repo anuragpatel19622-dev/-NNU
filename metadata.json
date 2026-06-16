@@ -1,0 +1,10 @@
+{
+  "name": "Remix: ANNU",
+  "description": "A real-time, voice-to-voice AI companion with a confident, sassy, flirty, and witty girlfriend persona, powered by Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
